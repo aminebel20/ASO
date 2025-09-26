@@ -1,0 +1,1 @@
+sed 's/tcp/TCP/' /etc/services

@@ -1,0 +1,1 @@
+sed -n '/nologin/p' /etc/passwd

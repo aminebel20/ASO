@@ -1,0 +1,1 @@
+sed -e -n '1,5p' -e '/^error$/d' /var/log/syslog.

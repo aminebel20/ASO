@@ -1,0 +1,1 @@
+sed -n '/^ftp/p' /etc/services

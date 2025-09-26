@@ -1,0 +1,1 @@
+sed 's/daemon/servicio/' /etc/passwd
